@@ -1,8 +1,0 @@
-blank_issues_enabled: false
-contact_links:
-  - name: Security issue
-    url: https://www.keymepass.com/security
-    about: Please report security problems privately — email security@keymepass.com, not a public issue.
-  - name: Account or billing help
-    url: https://www.keymepass.com/help
-    about: These usually involve personal details — contact support@keymepass.com instead.
