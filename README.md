@@ -1,4 +1,3 @@
-```markdown
 # KeyMe Pass — Feedback
 
 Public issue tracker for [KeyMe Pass](https://www.keymepass.com),
